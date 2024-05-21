@@ -1,0 +1,17 @@
+1. Select a Video Hosting Service: Choose a video hosting service like YouTube, Vimeo, or any other service that provides video hosting and embedding capabilities.
+
+2. Upload Your Video: Upload your video file to the chosen video hosting service. Follow their specific instructions for uploading videos, including any recommended file formats or size limits.
+
+3. Get the Embed Code: Once your video is uploaded, locate the option to get the embed code. This code is provided by the hosting service and allows you to embed the video player on your website.
+
+4. Copy the Embed Code: Copy the embed code provided by the video hosting service. This code typically includes an HTML `<iframe>` element or a JavaScript snippet that you can paste into your website's HTML code.
+
+5. Paste the Embed Code into Your Website: Navigate to the HTML file of your website where you want to embed the video. Paste the copied embed code into the appropriate location within the HTML code of your webpage.
+
+6. Adjust Settings (Optional): Some video hosting services allow you to customize the appearance or behavior of the embedded video player. If desired, you can adjust settings such as autoplay, player controls, or video size directly within the embed code or through the hosting service's settings.
+
+7. Save and Publish Your Website: After pasting the embed code into your website's HTML, save the changes to your HTML file and publish your website to make the embedded video live and accessible to visitors.
+
+8. Test the Embedded Video: Once your website is published, test the embedded video to ensure it loads and plays correctly in the web browser. Verify that all desired settings and functionality are working as expected.
+
+By following these tutorial steps, you can successfully embed a service-hosted video into your website, allowing visitors to view the video content directly on your site.
